@@ -1,0 +1,10 @@
+Requirements:
+
+Modules that need to be imported
+
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
